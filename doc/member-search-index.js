@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"arraylist","c":"Arraymultiple9","l":"Arraymultiple9()","u":"%3Cinit%3E()"},{"p":"arraylist","c":"Arraymultiple9","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
